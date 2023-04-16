@@ -1,0 +1,9 @@
+# pip install Pillow
+#  pip install opencv-python
+# pip install numpy
+Pyzbar
+# Mac OS version
+  # brew install zbar
+# Windows OS version
+  # pip install pyzbar
+  
